@@ -1,0 +1,2 @@
+# javascripttt
+learning javascripttt
