@@ -21,3 +21,35 @@ let number = 33
 let stringnumber = String(number)
 console.log(stringnumber)
 console.log(typeof stringnumber)
+
+
+//**************operators*********** */
+let value = 3
+let negvalue = -value
+console.log(negvalue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2/2);
+console.log(2%2);
+console.log(2**2);
+console.log(2**3);
+
+let name = "aman"
+let surname = " yadav"
+console.log(name+surname);
+
+let a = 1
+let b = "2"
+console.log(a+b);
+
+console.log(+true);
+console.log(+"");
+
+let num1,num2,num3
+num1 = num2 = num3 = 2+3
+
+let gamecounter = 100
+gamecounter++;
+console.log(gamecounter);
